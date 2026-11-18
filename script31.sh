@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sample_name=" sapiens neanthertal denisova"
+sample_name=" erectus neanthertal denisova"
 
 for sample in $sample_name
 
